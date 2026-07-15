@@ -1,3 +1,7 @@
+# Executive Sales Dashboard
+
+![Executive Sales Dashboard](Dashboard.png)
+
 # 📊 Power BI Portfolio
 
 Welcome to my Power BI Portfolio.
